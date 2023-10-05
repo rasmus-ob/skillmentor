@@ -1,5 +1,3 @@
-Certainly, sir. Here's the idea for a social application "SkillMentor" written with Markdown formatting:
-
 # SkillMentor
 
 **Concept**:
